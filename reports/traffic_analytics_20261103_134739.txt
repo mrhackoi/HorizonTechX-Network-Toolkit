@@ -1,0 +1,20 @@
+Traffic Analytics
+==================================================
+Generated: 2026-11-03 13:47:39.600287
+
+HORIZON TECHX - TRAFFIC ANALYTICS
+========================================
+Total packets: 1
+Total data size: 74 bytes
+
+PROTOCOL STATISTICS
+------------------------------
+UDP: 1
+
+TOP SOURCE IPs
+------------------------------
+10.0.2.15: 1
+
+TOP DESTINATION IPs
+------------------------------
+151.243.141.157: 1
